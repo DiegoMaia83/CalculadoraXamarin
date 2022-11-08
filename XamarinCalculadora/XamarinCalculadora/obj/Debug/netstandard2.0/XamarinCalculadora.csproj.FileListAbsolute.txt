@@ -1,0 +1,15 @@
+D:\Desenvolvimento\Xamarin\Tutorial\XamarinCalculadora\XamarinCalculadora\XamarinCalculadora\bin\Debug\netstandard2.0\XamarinCalculadora.deps.json
+D:\Desenvolvimento\Xamarin\Tutorial\XamarinCalculadora\XamarinCalculadora\XamarinCalculadora\bin\Debug\netstandard2.0\XamarinCalculadora.dll
+D:\Desenvolvimento\Xamarin\Tutorial\XamarinCalculadora\XamarinCalculadora\XamarinCalculadora\bin\Debug\netstandard2.0\ref\XamarinCalculadora.dll
+D:\Desenvolvimento\Xamarin\Tutorial\XamarinCalculadora\XamarinCalculadora\XamarinCalculadora\bin\Debug\netstandard2.0\XamarinCalculadora.pdb
+D:\Desenvolvimento\Xamarin\Tutorial\XamarinCalculadora\XamarinCalculadora\XamarinCalculadora\obj\Debug\netstandard2.0\XamarinCalculadora.csproj.AssemblyReference.cache
+D:\Desenvolvimento\Xamarin\Tutorial\XamarinCalculadora\XamarinCalculadora\XamarinCalculadora\obj\Debug\netstandard2.0\XamarinCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\Xamarin\Tutorial\XamarinCalculadora\XamarinCalculadora\XamarinCalculadora\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Desenvolvimento\Xamarin\Tutorial\XamarinCalculadora\XamarinCalculadora\XamarinCalculadora\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Desenvolvimento\Xamarin\Tutorial\XamarinCalculadora\XamarinCalculadora\XamarinCalculadora\obj\Debug\netstandard2.0\XamarinCalculadora.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Xamarin\Tutorial\XamarinCalculadora\XamarinCalculadora\XamarinCalculadora\obj\Debug\netstandard2.0\XamarinCalculadora.AssemblyInfo.cs
+D:\Desenvolvimento\Xamarin\Tutorial\XamarinCalculadora\XamarinCalculadora\XamarinCalculadora\obj\Debug\netstandard2.0\XamarinCalculadora.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Xamarin\Tutorial\XamarinCalculadora\XamarinCalculadora\XamarinCalculadora\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Desenvolvimento\Xamarin\Tutorial\XamarinCalculadora\XamarinCalculadora\XamarinCalculadora\obj\Debug\netstandard2.0\XamarinCalculadora.dll
+D:\Desenvolvimento\Xamarin\Tutorial\XamarinCalculadora\XamarinCalculadora\XamarinCalculadora\obj\Debug\netstandard2.0\ref\XamarinCalculadora.dll
+D:\Desenvolvimento\Xamarin\Tutorial\XamarinCalculadora\XamarinCalculadora\XamarinCalculadora\obj\Debug\netstandard2.0\XamarinCalculadora.pdb
